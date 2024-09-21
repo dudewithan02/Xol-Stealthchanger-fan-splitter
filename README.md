@@ -1,6 +1,6 @@
 # VORON STEALTHCHANGER XOL TOOLHEAD FAN SPLITTER
 
-This little PCB allows you to connect 2 part cooling fans without having to splice or join cables. It fits the Xol toolhead when using it with Stealthchanger by DraftShift Design.
+This little PCB allows you to connect 2 part cooling fans without having to splice or join cables. It fits the Xol toolhead when using it with Stealthchanger by DraftShift Design. Note that this is designed to work with the (current) Stealthchanger V1.1 backplates. If DraftShift Design updates these backplates for any reason I will be revisiting this to make sure it still works with future revisions.
 
 Stealthchanger Xol fan splitter PCB:
 
@@ -24,7 +24,7 @@ Download the gerber files above, send them to your favourite PCB manufacturing c
 2. Solder 2 jumper wires to the VCC and GND pads. Insert the cables from the side with the "VCC GND" silkscreen, ie the OPPOSITE side of the board as the headers (See pictures if unsure of orientation). **The spacing of the VCC/GND pads is 2.54mm, so you could even solder a 2-pin Dupont connector if you wanted to**
 3. Crimp a JST connector to the jumper wires to connect the fan splitter PCB to your toolhead PCB (Usually JST-PH, but is sometimes JST-XH).
 4. Double check you've installed the headers and jumper cables on the correct side of the board to ensure you don't short anything out!!
-5. Attach the PCB assembly to your toolhead by using the M3 screw to attach it to the single hole that's there for the stepper motor mounting brace. It will fit with the toolhead board brace installed with plenty of clearance behind the Tap sensor.
+5. Attach the PCB assembly to Stealthanger Xol V1.1 backplate by using the M3 screw to attach it to the single hole that's there for the stepper motor mounting brace. It will fit with the toolhead board brace installed with plenty of clearance behind the Tap sensor.
 6. Connect the 2 part cooling fans to the PCB, and connect the PCB to your toolhead board. Ensure your fans are wired with the correct polarity as specified by the silkscreen.
 
 Assembled Xol toolhead with fan splitter PCB. Note how it tucks neatly above the Tap sensor with the JST headers on the reverse side of the board to save space:

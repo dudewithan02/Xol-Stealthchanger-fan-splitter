@@ -45,7 +45,7 @@ Xol toolheads almost ready to go in my Stealthchanger build:
 
 ## CREDITS
 
-Credit goes to the hard work by the people at Draft Shift Design for their work on the Stealthchanger Voron toolchanger project, and Armchair Heavy Industries for their work on the Xol toolhead!.
+Credit goes to the hard work by the people at DraftShift Design for their work on the Stealthchanger Voron toolchanger project, and Armchair Heavy Industries for their work on the Xol toolhead!.
 
 [DraftShift Design](https://github.com/DraftShift)
 
